@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "The first search engine on the internet is",
+      option1: "Archie",
+      option2: "Google",
+      option3: "Bing",
+      option4: "Yahoo",
+      ans: 1,
+    },
+    {
+      question: "The first web browser invented in 1990 was",
+      option1: "World Wide Web",
+      option2: "Internet Explorer",
+      option3: "Mosaic",
+      option4: "Nexus",
+      ans: 1,
+    },
+    {
+      question: "Which technology is used to record cryptocurrency transactions?",
+      option1: "Mining",
+      option2: "Digital Wallet",
+      option3: "Blockchain Technology",
+      option4: "Token",
+      ans: 3,
+    },
+    {
+      question: "One of the advantages of information technology is",
+      option1: "Streamline Communications",
+      option2: "Easy to handle ",
+      option3: "Both a and b",
+      option4: "None",
+      ans: 1,
+    },
+    {
+      question: "The first computer virus was known as",
+      option1: "Rabbit",
+      option2: "Elk cloner",
+      option3: "SCA virus",
+      option4: "Creeper program",
+      ans: 4,
+    },
+  ];
